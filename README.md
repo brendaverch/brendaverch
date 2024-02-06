@@ -1,10 +1,7 @@
 
-![ezgif-3-1f3da5818b](https://github.com/brendaverch/brendaverch/assets/70708904/f242a45c-aa11-43f1-8e83-c238858fab61)
+![ezgif-3-c063528503](https://github.com/brendaverch/brendaverch/assets/70708904/6eeafbe7-2e6e-421c-ac66-09a5d8fe85ec)
 
 
-<a href="https://github.com/brendaverch/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?lines=I’am%20a%20Data%20 Scientist;I’am%20a%20AI%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=false&width=440&height=45&color=008000&vCenter=true&pause=1000&size=22" /></a>
-</p>
 
 
 </div>
