@@ -1,7 +1,17 @@
-### Hi there 👋
+### Hi! Welcome to my Github profile.
+### I'm Brenda Verch
 
-<!--
-**brendaverch/brendaverch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/brendaverch/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com/?lines=I’am%20a%20Data%20 Scientist;I’am%20a%20AI%20Enthusiast;Always%20learning%20new%20things&font=Fira%20Code&center=false&width=440&height=45&color=008000&vCenter=true&pause=1000&size=22" /></a>
+</p>
+
+
+
+
+
+
+
+
 
 Here are some ideas to get you started:
 
