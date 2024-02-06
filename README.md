@@ -17,7 +17,7 @@
 </details>
 
 <details>
-<summary>Tools</summary>
+<summary>Languages and Tools</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
