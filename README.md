@@ -1,6 +1,6 @@
 
-![Gif-Git (1280 x 640 px)](https://github.com/brendaverch/brendaverch/assets/70708904/b18417b4-4eab-413c-8252-859852be987f)
 
+![Gif-Git (1280 x 640 px) (1)](https://github.com/brendaverch/brendaverch/assets/70708904/7a37d7f0-f0c6-4912-b2af-02067ba528ad)
 
 
 
