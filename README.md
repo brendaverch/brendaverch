@@ -1,5 +1,5 @@
 
-![ezgif-1-b87664b29a](https://github.com/brendaverch/brendaverch/assets/70708904/1bb0520a-7e87-422c-ab25-cbcb763bfee7)
+<img src="https://github.com/MasonSlover/MasonSlover/blob/master/output.gif" alt="Here is a little bit about me!">
 
 
 
