@@ -1,8 +1,5 @@
-### Hi! Welcome to my Github profile.
-### I'm Brenda Verch
-<img src="![ezgif-1-9df6f375a3](https://github.com/brendaverch/brendaverch/assets/70708904/656cb3ea-2464-4659-a78b-df6bc2d67009)" alt="Here is a little bit about me!">
 
-
+![ezgif-1-9df6f375a3](https://github.com/brendaverch/brendaverch/assets/70708904/0d4dfc27-a138-42b9-8d44-42f84995a975)
 
 
 <a href="https://github.com/brendaverch/readme-typing-svg">
