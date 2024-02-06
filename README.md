@@ -1,5 +1,5 @@
 
-![ezgif-3-1f3da5818b](https://github.com/brendaverch/brendaverch/assets/70708904/bf4b546b-bade-43d5-ba96-64fbbf077eb9)
+![ezgif-3-c063528503](https://github.com/brendaverch/brendaverch/assets/70708904/935f917c-cdff-40c3-8bcf-380781e63904)
 
 
 <a href="https://github.com/brendaverch/readme-typing-svg">
@@ -11,16 +11,9 @@
 
 <details>
 <summary>About me</summary>
-
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
 <div align="left">
  <br>
-  One of my favourite quotes
-  <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
-  </blockquote>
+  I am a Petroleum Engineer graduated from the State University of Santa Catarina, with a strong passion for numbers and programming. I began my career in the market intelligence sector, but soon found a pioneering opportunity in developing a virtual assistant based on artificial intelligence for agribusiness, using the ChatGPT API. Since then, I have been dedicated to artificial intelligence, constantly seeking updates and advancements in the field. Currently, I am transitioning into a career focused on artificial intelligence and pursuing a postgraduate degree to enhance my skills and knowledge. I reside in Santa Catarina.
 </div>
 
 </details>
