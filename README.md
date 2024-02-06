@@ -1,7 +1,7 @@
-<img src="https://github.com/brendaverch/brendaverch/assets/70708904/5f07f55c-6f78-446d-831d-a71ee7933ac" alt="Here is a little bit about me!">
+
+![Gif-Git (1280 x 640 px)](https://github.com/brendaverch/brendaverch/assets/70708904/b18417b4-4eab-413c-8252-859852be987f)
 
 
-![ezgif-7-1b95c0b1f1](https://github.com/brendaverch/brendaverch/assets/70708904/5f07f55c-6f78-446d-831d-a71ee7933ac7)
 
 
 
