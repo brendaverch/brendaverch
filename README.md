@@ -1,5 +1,5 @@
 
-![ezgif-3-c063528503](https://github.com/brendaverch/brendaverch/assets/70708904/935f917c-cdff-40c3-8bcf-380781e63904)
+![ezgif-3-1f3da5818b](https://github.com/brendaverch/brendaverch/assets/70708904/f242a45c-aa11-43f1-8e83-c238858fab61)
 
 
 <a href="https://github.com/brendaverch/readme-typing-svg">
