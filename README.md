@@ -86,7 +86,7 @@
 
 
 <details>
-<summary>Connect with me:</summary>
+<summary>Connect with me</summary>
 <div align="left">
  <p align="center">
   <a href="https://www.linkedin.com/in/brendacverch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brendacverch/" height="30" width="40" /></a>
