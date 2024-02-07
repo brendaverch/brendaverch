@@ -3,10 +3,9 @@
 ![Gif-Git (1280 x 640 px) (1)](https://github.com/brendaverch/brendaverch/assets/70708904/7a37d7f0-f0c6-4912-b2af-02067ba528ad)
 
 
-
-
 </div>
 
+--
 <details>
 <summary>About me</summary>
 <div align="left">
@@ -15,6 +14,21 @@
 </div>
 
 </details>
+
+--
+
+<details>
+  <summary>Quote</summary>
+  <br>
+  One of my favourite quotes
+  <blockquote>
+    “The important thing is not to stop questioning. Curiosity has its own reason for existing.”
+    <br><strong> Albert Einstein " (1995)</strong>
+  </blockquote>
+</details>
+
+
+--
 
 <details>
 <summary>Languages and Tools</summary>
@@ -44,13 +58,44 @@
 </div>
 </details>
 
+</div>
+
+--
 <details>
-  <summary>Quote</summary>
-  <br>
-  One of my favourite quotes
-  <blockquote>
-    “Can I say something? Um, I’m the type of person that if you ask me a question and I don’t know the answer, I’m gonna tell you that I don’t know. But I bet you what, I know how to find the answer and I will find the answer.”
-    <br><strong>Chris Gardner interpreted by Will Smith in the movie "Pursuit of Happyness" (2006)</strong>
-  </blockquote>
+<summary>Stats</summary>
+<div align="left">
+      <p><img align="left" 
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=brendaverch&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="brendaverch" /></p></a>
+    <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=brendaverch&show_icons=true&theme=dark&locale=en" alt="brendaverch" /></p></a>  
+  </p>
+</div>
+
 </details>
 
+--
+
+<details>
+<summary>Connect with me:</summary>
+<div align="left">
+ <p align="center">
+  <a href="https://www.linkedin.com/in/brendacverch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/brendacverch/" height="30" width="40" /></a>
+ </div>
+</details>
+
+</div>
+
+
+</p>
+</div>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
