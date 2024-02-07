@@ -46,7 +46,7 @@
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spyder/spyder-original-wordmark.svg" /> 
       <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
    <hr>
-     Em desenvolvimento
+     Under development
 <div>
   <p style="display: inline-block;" align="center">
       <br>
@@ -65,6 +65,20 @@
   src="https://github-readme-stats.vercel.app/api/top-langs?username=brendaverch&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="brendaverch" /></p></a>
     <a align="right"><p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=brendaverch&show_icons=true&theme=dark&locale=en" alt="brendaverch" /></p></a>  
   </p>
+ </p>
+</div>
+<hr>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
 
 </details>
