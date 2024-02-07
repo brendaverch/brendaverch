@@ -5,7 +5,6 @@
 
 </div>
 
---
 <details>
 <summary>About me</summary>
 <div align="left">
@@ -15,7 +14,6 @@
 
 </details>
 
---
 
 <details>
   <summary>Quote</summary>
@@ -28,7 +26,6 @@
 </details>
 
 
---
 
 <details>
 <summary>Languages and Tools</summary>
@@ -60,7 +57,7 @@
 
 </div>
 
---
+
 <details>
 <summary>Stats</summary>
 <div align="left">
@@ -72,7 +69,7 @@
 
 </details>
 
---
+
 
 <details>
 <summary>Connect with me:</summary>
